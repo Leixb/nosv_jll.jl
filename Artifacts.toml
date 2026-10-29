@@ -1,0 +1,9 @@
+[[nosv]]
+arch = "x86_64"
+git-tree-sha1 = "f128b03438c38e73d684f9e008dd9d3879d6eff8"
+libc = "glibc"
+os = "linux"
+
+    [[nosv.download]]
+    sha256 = "f0bbf9b1e456d2f60a473f733233e3370be138474699033e909024be14d3c7b8"
+    url = "https://github.com/LeixB/nosv_jll.jl/releases/download/nosv-v4.1.0+0/nosv.v4.1.0.x86_64-linux-gnu.tar.gz"
